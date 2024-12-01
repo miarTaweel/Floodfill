@@ -1,6 +1,10 @@
 # mms-python
 
-Write a Micromouse maze-solving algorithm in Python.
+Miar Taweel 1210447
+Francis Miadi 1210100
+leena Abuhammad 1211460
+
+This is a Micromouse maze-solving floodfill algorithm in Python.
 
 For use with [mackorone/mms](https://github.com/mackorone/mms), a Micromouse simulator.
 

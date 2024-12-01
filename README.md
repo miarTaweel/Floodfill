@@ -1,7 +1,9 @@
-# mms-python
+# mms-python-Floodfill
 
 Miar Taweel 1210447
+
 Francis Miadi 1210100
+
 leena Abuhammad 1211460
 
 This is a Micromouse maze-solving floodfill algorithm in Python.
